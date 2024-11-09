@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TopActionBar.aspx.cs" Inherits="Marathonga.Forms.TopActionBar" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Marathonga.aspx.cs" Inherits="Marathonga.Forms.TopActionBar" %>
 
 <!DOCTYPE html>
 
