@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Marathonga.aspx.cs" Inherits="Marathonga.Forms.TopActionBar" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="Marathonga.Forms.TopActionBar" %>
 
 <!DOCTYPE html>
 
@@ -7,7 +7,7 @@
 <head runat="server">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
     <!-- Other stylesheets and title -->
-</head>
+
 <title></title>
 <style>
     * {
@@ -492,6 +492,8 @@
             </div>
         </div>
         <div class="carousel-container">
+
+      
             <div class="carousel-container">
                 <!-- Carousel slides -->
                 <div class="carousel-inner" id="carouselInner">
@@ -524,6 +526,7 @@
                 %>
                 </div>
             </div>
+              </div>
             <!-- Left part with Icon and Text -->
             <div data-section="title">
                 <span class="h-[20px] w-[20px] rounded-full bg-white p-0.5 mx-1">
